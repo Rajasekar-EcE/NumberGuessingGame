@@ -1,0 +1,6 @@
+--> Number Guessing Game 🎮
+    A simple Java console-based number guessing game with Easy, Medium, Hard, and Custom levels.
+
+--> How to Play:
+    1. Guess the number within the range
+    2. Type `1234` to reveal the answer and exit
